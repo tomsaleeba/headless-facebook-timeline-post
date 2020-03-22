@@ -27,3 +27,6 @@ Facebook session from another computer logged in to Facebook.
 
  1. your last post privacy setting will be used
  1. your last preference for News Feed/Your Story will be used
+ 1. this is really only feasible for *you* to use to post to *your* timeline.
+    You can't do a third party OAuth type thing where users let you post to
+    their timeline
